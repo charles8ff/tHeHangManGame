@@ -1,4 +1,4 @@
 # tHeHangManGame
-Práctica1 con esteroides
+One of the first exercises that i'm proud of, commanded by the almighty avalero.
 
-by pyrex_BAUS
+by charles8ff
